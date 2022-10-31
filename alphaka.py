@@ -2,9 +2,6 @@
 #         CONSTANTS         #
 #############################
 
-from distutils.log import error
-
-
 DIGITS = '0123456789'
 
 #############################
